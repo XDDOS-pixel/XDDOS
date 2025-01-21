@@ -1,3 +1,7 @@
+<p align=center>
+  <img src=https://github.com/user-attachments/assets/1f6498b2-3b9e-4f87-8046-6618a338dafd width=150%>
+</p>
+
 # XDDOS: An Advanced Minecraft Server Stress Tester
 
 <p>
